@@ -1,0 +1,11 @@
+site_name: cloudnotte docs
+theme: readthedocs
+nav:
+    - Home: 'index.md'
+    - About: 'cloudnotte.md'
+    - Sign Up Your School: 'SignUp.md'
+    - Introduction To Cloudnotte: 'Intro.md'
+    - As an Admin: 'Admin.md'
+    - As a Teacher: 'teacher.md'
+    - As a Student: 'student.md'
+    - As a Parent: 'parent.md'
