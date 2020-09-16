@@ -109,4 +109,31 @@ Click **Send** or **Cancel**
 
 ![added-image](../image/add-image.jpg)
 
-After adding Image and Description to your Topic. you can now start class by clicking ![startclass](../image/startclass.jpg)
+After adding Image and Description to your Topic. you can now start class by clicking **Start Class**
+
+**Deleting** a class, click on ![delete-class](../image/DeleteClass.jpg)
+
+here is a pop up asking you to confirm your delete, and if you click **Proceed** to delete and **cancel** to cancel.
+
+![proceedelete](../image/proceedelete.jpg)
+
+To ensure it is you the teacher deleting the class, you have to input your **Password** before the class can actually be deleted.
+
+To Add a student to an ongoing class, you click ![add-student](../image/Add-Student.jpg)
+
+Here comes a pop up with a list of student name from that class, that possibly you didn't add while creating the virtual class.
+
+![add-student](../image/screenshot.jpg)
+
+To create another virtual class you click ![main](../image/main.jpg) and create your class.
+To go back to the dashboard you click ![dashboard](../image/goto.jpg)
+
+## Homework
+
+Click on ![homework](../image/homework.jpg) to view the **homework** dashboard.
+
+Click on ![My-homework](../image/Myhomework.jpg) to view all **homework**
+
+![homework-list](../image/homework-list.jpg)
+
+Click ![view-question](../image/view-QZ.jpg) to view previously set homework.

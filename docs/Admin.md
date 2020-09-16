@@ -20,7 +20,7 @@ The dashboard provides at-a-glance views of key performance indicators (KPIs) re
 
 ### All Student
 
-click to shows a list of students and give access to ![View Assessment](../image/assement-student.jpg), ![View Profile](../image/student-view-profile.jpg), and ![Delete](../image/delete-button.jpg)
+click![student](../image/all-student.png) to shows a list of students and access to ![View Assessment](../image/assement-student.jpg), ![View Profile](../image/student-view-profile.jpg), and ![Delete](../image/delete-button.jpg)
 
 ![All Student](../image/Students.list.jpg)
 
@@ -386,7 +386,7 @@ This is a *Search Button* that enables admin to search for expenses by date.
 
 ![Search](../image/search.jpg)
 
-## Computer Based Test
+## Computer Based Test CBT
 
 ![CBT](../image/cbt.jpg)
 
