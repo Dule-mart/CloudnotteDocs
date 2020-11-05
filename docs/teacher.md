@@ -137,3 +137,93 @@ Click on ![My-homework](../image/Myhomework.jpg) to view all **homework**
 ![homework-list](../image/homework-list.jpg)
 
 Click ![view-question](../image/view-QZ.jpg) to view previously set homework.
+
+You get a display with question type, score, options, answer, and delete.
+
+![colum-homework](../image/colum-homework.jpg)
+
+To add more questions click ![add-more-question](../image/Add-more-question.jpg)
+
+Add Question To Homework by providing question details.
+
+![AddQuestion](../image/Add-Questions.jpg)
+
+Click on **Add Question** to add question to homework.
+
+And Click on ![delete](../image/delete-button.jpg) then you get a pop up just as you did when deleting a class.
+
+To Mark Homework Click on ![mark-homework](../image/Mark-Homework.jpg)
+
+You get a modal asking for Class, Subject, and Homework title.
+
+![Mark-modal](../image/Mark-Modal.jpg)
+
+Click **Proceed** to mark and add grade to homework.
+
+To Publish Homework click ![publish-homework](../image/Publish-Homework.jpg)
+
+A Modal pop ups asking for the Class, Subject, Format, Start and End date.
+
+![Publish-homework](../image/publish.jpg)
+
+Just repeat the same action taken to mark a homework which was by clicking on **Proceed** or **cancel** to cancel
+
+To view homework result click ![home-work-score](../image/home-work-score.jpg)
+
+## Lesson Note
+
+In this section, you add lesson note, view previous lesson note and also check on draft.
+
+![viewall](../image/viewall.jpg)
+
+We are going to start with adding our lesson note.
+
+Click ![lessonNote](../image/Add-lessonNote.jpg)
+
+fill in the form with needed information.
+save as draft or you publish your lesson for your students.
+
+![addlessonnote](../image/addlessonnote.jpg)
+
+Your lesson Note will have the following:
+
+* Week
+* Date
+* Select Class 
+* Select Subject 
+* Lesson Note Topic
+* Lesson Note Duration (e.g 2 - 3 weeks)
+* Upload Image if any ?
+* Lesson Note Content
+* Lesson Note Evaluation
+* Lesson Note Assignment
+* Instructional Objective
+* Instructional Material
+* Instructional Strategies
+* Previous Knowledge
+* White Board Summary
+* Development
+
+Now, you can click on ![saveDraft](../image/saveDraft.jpg) to Save as Draft and ![publishLN](../image/publishLN.jpg).
+
+Next, after we have gone back we want to check our **Lesson** **Note**.
+
+Now, click on ![mylessonnote](../image/mylessonnote.jpg)
+
+Here you have a popup asking you to select the academic section and term in which you want to view the Lesson note.
+
+![viewlesson](../image/inputField.jpg)
+
+After, selecting the Section and Term, click on ![VLN](../image/viewLessonNote.jpg)
+
+![nolessonte](../image/NolessonNote.jpg)
+
+Draft are Lesson note that are saved in the system to be edited later.
+
+Click on ![lessondraft](../image/Lessondraft.jpg)
+
+Now, you can view Lesson note that were saved as draft.
+All draft can be Edited and Delete.
+
+![editdraft](../image/EditDraft.jpg)
+
