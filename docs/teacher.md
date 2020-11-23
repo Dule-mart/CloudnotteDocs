@@ -189,8 +189,8 @@ Your lesson Note will have the following:
 
 * Week
 * Date
-* Select Class 
-* Select Subject 
+* Select Class
+* Select Subject
 * Lesson Note Topic
 * Lesson Note Duration (e.g 2 - 3 weeks)
 * Upload Image if any ?
@@ -227,3 +227,95 @@ All draft can be Edited and Delete.
 
 ![editdraft](../image/EditDraft.jpg)
 
+## Examination
+
+The exam panel helps a teacher to enter a student score and view result as well, so, we will be taken a look at how to carry out this two actions.
+
+![TeacherExamPanel](../image/teacherExamPanel.jpg)
+
+To view a student result.
+
+Click ![stResult](../image/stResult.jpg)
+
+A popup comes up where you select the **Academic** **Session**, **Term**, **Class**, **Student**, and **Result Type**.
+After which you click on ![VR](../image/VR.jpg) to view result or ![cancelresult](../image/CancelResult.jpg)
+
+![VSR](../image/VSR.JPG)
+
+Once you Click on ![VR](../image/VR.jpg), the system display the reportsheet of a selected student.
+
+Click ![enterScore](../image/enterScore.jpg)
+
+A page display where you select the **Class**, **Subject**, **Academic Session**, and **Term**.
+After which you click on ![proc](../image/proc.jpg) to proceed or ![cancelresult](../image/CancelResult.jpg)
+
+![ESS](../image/ESS.jpg)
+
+Once you click on ![proc](../image/proc.jpg), a new page comes up for you to input scores for the selected student.
+
+![ENS](../image/ENS.jpg)
+
+After putting in the scores, at the right corner you see the ![SaLL](../image/SaLL.jpg) button, Click to save.
+
+## Computer Base Test
+
+The CBT helps teacher to organize and mark online examination and Test.
+Click on the CBT Icon on the side it opens up what I call the CBT dashboard, where you check answers, set questions, view broadsheet, and enter exam scores.
+
+![ctbdashbaord](../image/CTBDashboard.jpg)
+
+Now, Click ![cbtquestion](../image/cbtquestions.jpg)
+
+To view all Exam question, you have to select class and subject. Click on ![viewQuestionButton](../image/viewQuestionButton.jpg) or![cancelresult](../image/CancelResult.jpg)
+
+![selectclass](../image/selectclass.jpg)
+
+After selecting your **Class** and **Subject** and Clicking on ![viewQuestionButton](../image/viewQuestionButton.jpg)
+
+New page shows Exam Question and Answers for that particular class selected.
+Remember to scroll right and left to check for other informations.
+
+![examquestionview](../image/ExamQuestionView.jpg)
+
+Click Go Back to go and now we have successfully View our Questions and Answers.
+Next we will be looking at other features of the **CBT Module**
+
+Click on ![Broadsheetbutton](../image/BroadSheetButton.jpg)
+
+To view Student ID, Student Name, Class, Subject, and Total Score.
+
+![BroadSheetView](../image/broadsheetview.jpg)
+
+To add Question click ![addtobroadsheetquestion](../image/addtobroadsheet.jpg)
+and select **Class** and **Subject** the Proceed to add question.
+
+![addquestiondialog](../image/addquestiondialog.jpg)
+
+Here, you see recently added questions and also an empty fields that will help you add questions to **CBT**
+
+![addquestionfield](../image/addquestionfield.jpg)
+
+Now, You can click on Go Back to perform the next action.
+
+Now, Click ![examscore](../image/examscore.jpg)
+
+To view CTB score you have to select the session, term, class, and CBT exam.
+
+![CBTExamScore](../image/CBTExamScore.jpg)
+
+Click on ![viewCBT](../image/viewCBT.jpg)
+
+<!--------------uncompleted content------------------->
+
+To upload Questions to CBT
+click on ![uploadquestion](../image/uploadQuestion.jpg)
+
+Upload question to CBT by selecting **Class**, **Subject**, and selecting an **Excel** file from your device.
+
+![uploadtocbt](../image/uploadToCBT.JPG)
+
+Click on ![upQ](../image/upQ.jpg)
+
+Recently Uploaded question are available for view.
+
+<!---------------------uncompleted content-------------------------->
